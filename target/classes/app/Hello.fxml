@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane prefHeight="333.0" prefWidth="531.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="app.HelloController">
+  <!-- TODO Add Nodes -->
+  <center>
+    <Button mnemonicParsing="false" text="Button" />
+  </center>
+  <top>
+    <CheckBox mnemonicParsing="false" text="CheckBox" />
+  </top>
+</BorderPane>
